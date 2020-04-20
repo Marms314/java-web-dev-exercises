@@ -2,7 +2,6 @@ package exercises;
 import java.util.Scanner;
 
 public class CalculateRectangleArea {
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
