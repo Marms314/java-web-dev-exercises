@@ -1,4 +1,4 @@
-package exercises;
+package org.launchcode.java.exercises.class01;
 import java.util.Scanner;
 
 public class RemoveFromAlice {
