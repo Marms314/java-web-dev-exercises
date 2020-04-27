@@ -1,7 +1,6 @@
-package org.launchcode.java.studios.class02CountingCharacters;
+package org.launchcode.java.studios.lsn02CountingCharacters;
 
 import java.util.HashMap;
-import java.util.regex.Pattern;
 
 public class CountCharacters {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.launchcode.java.studios.class01areaofacircle;
+package org.launchcode.java.studios.lsn01areaofacircle;
 import java.util.Scanner;
 
 public class Area {
